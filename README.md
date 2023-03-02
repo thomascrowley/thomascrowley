@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomascrowley
 - 👀 I’m a Platform Engineer interested in GCP, AWS, Terraform and all things Cloud
-- 🌱 I’m currently learning GoLand
+- 🌱 I’m currently learning GoLang
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
